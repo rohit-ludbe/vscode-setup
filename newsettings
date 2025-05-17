@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "Atlassian Mono, Geist mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 20,
+  "editor.fontWeight": "400",
+  "editor.lineHeight": 26,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
